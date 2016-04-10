@@ -28,4 +28,4 @@
   Une branche permet de développer des fonctionalités sans affecter la branche principale (master).
   On peut y faire des essais et quand on est sûr de notre code, le fusionner à la branche master.
   Lorsqu'on se trouve dans la branche master, les modifications des autres branches ne sont pas prises en compte.
-  
+  Les branches permettent donc de développer une fonctionnalité pendant longtemps sans affecter et en laissant fonctionnel le code de la branche master.
